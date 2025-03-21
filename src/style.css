@@ -1,5 +1,17 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+.press-start-2p-regular {
+    font-family: "Press Start 2P";
+    font-size: 30px;
+}
 
-body{
-    background: white;
+.container-fullscreen {
+    height: 100vh;
+
+}
+
+.tektur-uniquifier {
+    font-family: "Tektur", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
 }
